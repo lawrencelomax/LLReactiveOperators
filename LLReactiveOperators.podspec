@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
       :type => 'MIT',
       :file => 'LICENSE'
     }
-    s.source = { :git => 'https://github.com/lawrencelomax/LLReactiveOperators.git', :commit => 'f32fc6c4b3bcf9a80ba8f3c6716d9012f4db88a6' }
+    s.source = { :git => 'https://github.com/lawrencelomax/LLReactiveOperators.git', :commit => 'a946f2eaee0fbb67cd5cfe6318a16f469a68639a' }
     s.author = 'Lawrence Lomax'
     s.homepage = 'https://github.com/lawrencelomax/LLReactiveOperators'
     s.platform = :ios, '5.0'
