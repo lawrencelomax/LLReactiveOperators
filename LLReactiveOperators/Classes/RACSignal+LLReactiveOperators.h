@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 Lawrence Lomax. All rights reserved.
 //
 
+#import "RACSignal.h"
+
 @interface RACSignal (LLReactiveOperators)
 
 - (instancetype) reduceAtIndex:(NSUInteger)index;
